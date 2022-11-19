@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    justify-items: center;
+}
+
+.title {
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+}
